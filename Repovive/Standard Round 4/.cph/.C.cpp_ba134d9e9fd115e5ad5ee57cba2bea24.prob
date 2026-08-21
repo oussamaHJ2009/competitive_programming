@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"/home/oussama-hajji/Documents/CP/Repovive/Standard Round 4/C.cpp","tests":[{"id":1781109125895,"input":"3\n1\n5\n2\n1 1\n3\n1 2 1\n","output":"0\n2\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/Repovive/Standard Round 4/C.cpp","group":"local","local":true}

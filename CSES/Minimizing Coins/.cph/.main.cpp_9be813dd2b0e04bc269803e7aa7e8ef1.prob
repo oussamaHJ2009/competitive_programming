@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama/Documents/CP/CSES/Minimizing Coins/main.cpp","tests":[{"id":1774904790760,"input":"3 11\n1 5 7","output":"3\n"},{"id":1774979725405,"input":"1 1000\n1","output":"1000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama/Documents/CP/CSES/Minimizing Coins/main.cpp","group":"local","local":true}

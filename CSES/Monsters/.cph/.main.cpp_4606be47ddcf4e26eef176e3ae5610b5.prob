@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama-hajji/Documents/CP/CSES/Monsters/main.cpp","tests":[{"id":1786742779197,"input":"5 8\n########\n#M..A..#\n#.#.M#.#\n#M#..#..\n#.######\n","output":"YES\n5\nRRDDR\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/CSES/Monsters/main.cpp","group":"local","local":true}

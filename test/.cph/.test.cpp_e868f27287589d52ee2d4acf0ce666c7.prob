@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/home/oussama/Documents/CP/test/test.cpp","tests":[{"id":1773657970699,"input":"5\n1 4 2 7 4","output":"7 4 4 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama/Documents/CP/test/test.cpp","group":"local","local":true}

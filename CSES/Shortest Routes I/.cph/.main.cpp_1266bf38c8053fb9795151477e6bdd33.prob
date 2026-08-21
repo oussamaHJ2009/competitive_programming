@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama-hajji/Documents/CP/CSES/Shortest Routes I/main.cpp","tests":[{"id":1786912932783,"input":"3 4\n1 2 6\n1 3 2\n3 2 3\n1 3 4\n","output":"0 5 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/CSES/Shortest Routes I/main.cpp","group":"local","local":true}

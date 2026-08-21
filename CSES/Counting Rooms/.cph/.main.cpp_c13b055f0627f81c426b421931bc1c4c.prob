@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama-hajji/Documents/CP/CSES/Counting Rooms/main.cpp","tests":[{"id":1781637013422,"input":"5 8\n########\n#..#...#\n####.#.#\n#..#...#\n########\n","output":"3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/CSES/Counting Rooms/main.cpp","group":"local","local":true}

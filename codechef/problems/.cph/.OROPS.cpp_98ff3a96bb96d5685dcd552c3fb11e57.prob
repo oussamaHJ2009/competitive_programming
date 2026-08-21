@@ -1,0 +1,1 @@
+{"name":"Local: OROPS","url":"/home/oussama-hajji/Documents/CP/codechef/problems/OROPS.cpp","tests":[{"id":1781727070488,"input":"4\n2\n3 4\n3\n3 1 2\n3\n6 6 6\n5\n7 2 4 3 1\n","output":"1\n1\n0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/codechef/problems/OROPS.cpp","group":"local","local":true}

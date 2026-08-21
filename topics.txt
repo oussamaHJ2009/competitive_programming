@@ -1,0 +1,16 @@
+########################################################################################
+topics that i want to ensure mastery of
+########################################################################################
+
+1---binary search
+2---flood fill
+3---trees
+4---bitwise
+5---priorety queues
+
+-------------------------------------------------------------------------------------------
+after finishing ts i will do additional practice normal problems until i meet each topic
+and solve solve the problem without external help.
+then i will move to gold that is it(not allowed to take more than 6 days so must speed run)
+by the start of july i should be transitioning to gold
+-------------------------------------------------------------------------------------------

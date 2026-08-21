@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama/Documents/CP/CSES/Coin Combinations II/main.cpp","tests":[{"id":1774988415882,"input":"3 9\n2 3 5\n","output":"3\n"},{"id":1774988539444,"input":"3 3\n1 2 3\n","output":"3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama/Documents/CP/CSES/Coin Combinations II/main.cpp","group":"local","local":true}

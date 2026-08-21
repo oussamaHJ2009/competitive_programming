@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama-hajji/Documents/CP/CSES/Static Range Sum Queries/main.cpp","tests":[{"id":1782939684793,"input":"8 4\n3 2 4 5 1 1 5 3\n2 4\n5 6\n1 8\n3 3\n","output":"11\n2\n24\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/CSES/Static Range Sum Queries/main.cpp","group":"local","local":true}

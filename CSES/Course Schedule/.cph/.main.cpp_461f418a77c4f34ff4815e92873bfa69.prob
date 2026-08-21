@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama-hajji/Documents/CP/CSES/Course Schedule/main.cpp","tests":[{"id":1787084531090,"input":"5 3\n1 2\n3 1\n4 5","output":"3 4 1 5 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/CSES/Course Schedule/main.cpp","group":"local","local":true}

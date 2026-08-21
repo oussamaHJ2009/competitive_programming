@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama-hajji/Documents/CP/CSES/Mountain Range/main.cpp","tests":[{"id":1780651289516,"input":"10\n20 15 17 35 25 40 12 19 13 12\n","output":"5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/CSES/Mountain Range/main.cpp","group":"local","local":true}

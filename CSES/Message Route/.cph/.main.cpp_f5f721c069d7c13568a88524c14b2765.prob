@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama-hajji/Documents/CP/CSES/Message Route/main.cpp","tests":[{"id":1786514801488,"input":"5 5\n1 2\n1 3\n1 4\n2 3\n5 4\n","output":"3\n1 4 5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/CSES/Message Route/main.cpp","group":"local","local":true}

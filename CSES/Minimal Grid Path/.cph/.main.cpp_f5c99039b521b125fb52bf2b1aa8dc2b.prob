@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama-hajji/Documents/CP/CSES/Minimal Grid Path/main.cpp","tests":[{"id":1784973447606,"input":"4\nAACA\nBABC\nABDA\nAACA","output":"AAABACA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/CSES/Minimal Grid Path/main.cpp","group":"local","local":true}

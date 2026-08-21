@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama-hajji/Documents/CP/CSES/Road Construction/main.cpp","tests":[{"id":1783086645417,"input":"5 3\n1 2\n1 3\n4 5\n","output":"4 2\n3 3\n2 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/CSES/Road Construction/main.cpp","group":"local","local":true}

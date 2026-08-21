@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/oussama-hajji/Documents/CP/Repovive/Standard Round 5/A.cpp","tests":[{"id":1782744100595,"input":"5\n1 1\n3 3\n4 2\n5 4\n8 8\n","output":"Yes\nNo\nYes\nYes\nNo\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama-hajji/Documents/CP/Repovive/Standard Round 5/A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/oussama/Documents/CP/CSES/Room Allocation/main.cpp","tests":[{"id":1772899407776,"input":"3\n1 2\n2 4\n4 4","output":"2\n1 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oussama/Documents/CP/CSES/Room Allocation/main.cpp","group":"local","local":true}
